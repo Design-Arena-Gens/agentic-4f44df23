@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+* { box-sizing: border-box; }
+
+.page {
+  width: 100vw;
+  height: 100vh;
+  background: #f7c6cc; /* light pinkish-red */
+  overflow: hidden;
+}
+
+canvas { display: block; }
